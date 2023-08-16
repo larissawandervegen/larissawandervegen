@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📍 From Timbó, Santa Catarina<br>📚 Student of Entra21 Program<br>💻I'm a huge tech lover, every day I'm more sure of how much it can tranforms people's lives.</p>
+<p align="left">📍 From Santa Catarina, Brazil<br>📚 Student of Entra21 Program<br>💻I'm a huge tech lover, every day I'm more sure of how much it can tranforms people's lives.</p>
 
 ###
 
