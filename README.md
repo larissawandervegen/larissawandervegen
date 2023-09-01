@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨Welcome to my Github profile. My name is Larissa and I'm 18 years old.</p>
+<p align="left">✨Welcome to my Github profile. My name is Larissa!.</p>
 
 ###
 
