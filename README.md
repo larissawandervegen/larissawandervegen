@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">✨Bem-vindo ao meu perfil.</p>
+<p align="left">✨Welcome to my Github profile. My name is Larissa!</p>
 
 ###
 
-<h2 align="left">sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">📍 Santa Catarina, Brasil<br>📚 Programa de Formação Tech Entra21<br>💻Apaxonada por tecnologia e em falicitar a vida das pessoas através dela.</p>
+<p align="left">📍 Santa Catarina, Brasil <br>📚 Student of Entra21 Program<br>💻I'm a huge tech lover, every day I'm more sure of how much it can tranforms people's lives.</p>
 
 ###
 
-<h2 align="left">Estudando</h2>
+<h2 align="left">Currently learning</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="left">Fale comigo!</h2>
+<h2 align="left">Let's chat!</h2>
 
 ###
 
