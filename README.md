@@ -1,20 +1,20 @@
-<h1 align="left">Hey, what's up?</h1>
+<h1 align="left">Hello, world!</h1>
 
 ###
 
-<p align="left">✨Welcome to my Github profile. My name is Larissa!</p>
+<p align="left">✨Bem-vindo ao meu perfil.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">sobre mim</h2>
 
 ###
 
-<p align="left">📍 From Santa Catarina, Brazil<br>📚 Student of Entra21 Program<br>💻I'm a huge tech lover, every day I'm more sure of how much it can tranforms people's lives.</p>
+<p align="left">📍 Santa Catarina, Brasil<br>📚 Programa de Formação Tech Entra21<br>💻Apaxonada por tecnologia e em falicitar a vida das pessoas através dela.</p>
 
 ###
 
-<h2 align="left">Currently learning</h2>
+<h2 align="left">Estudando</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="left">Would like to find me?</h2>
+<h2 align="left">Fale comigo!</h2>
 
 ###
 
