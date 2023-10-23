@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📍 Santa Catarina, Brasil <br>📚 Student of Entra21 Program<br>💻Enthusiastic about the role of technology in shaping our future.</p>
+<p align="left">📍 Santa Catarina, Brasil <br>📚 Studying Node.js Development at Entra21<br>💻Enthusiastic about the role of technology in shaping our future</p>
 
 ###
 
