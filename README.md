@@ -4,10 +4,8 @@
 
 
   - 📍 Santa Catarina, Brasil <br>
- -  📚 Studying Node.js Development at Entra21<br>
   - 🎓Computer Science academic at FURB<br>
   - 💻Enthusiastic about the role of technology in shaping our future<br>
-  - 🔭 Check out my [Entra21 Integration Project](https://github.com/PiresGuilherme/Pequeno-Vinculo)
 
 ###
 
