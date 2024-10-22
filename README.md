@@ -5,7 +5,9 @@
 
   - 📍 Santa Catarina, Brasil <br>
   - 🎓Computer Science academic at FURB<br>
+  - 👩🏼‍💻Digital Intern at Schneider Electric<br>
   - 💻Enthusiastic about the role of technology in shaping our future<br>
+  
 
 ###
 
